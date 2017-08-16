@@ -24,7 +24,7 @@ let operatorList: [Character: [(String, Int)]] =
         "|": [("|||", 3), ("||=", 3), ("||", 2), ("|=", 2), ("|", 1)],
         "!": [("!==", 3), ("!=", 2)],
         "=": [("===", 3), ("==", 2), ("=", 1)],
-        "?": []
+        "?": [("?=", 2)]
     ]
 
 fileprivate let negativeCheckSigns: [Character] =
@@ -107,6 +107,8 @@ class SwiftParser {
                 retString.keepSpace()
                 retString += ternary.string
                 return ternary.index
+            } else if let index = space(with: operatorList[char]!) {
+                return index
             } else {
                 return add(char: char)
             }

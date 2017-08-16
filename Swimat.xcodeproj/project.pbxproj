@@ -339,7 +339,7 @@
 				TargetAttributes = {
 					2F5745D81D8A83C500094D06 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 2HR4N2E675;
+						DevelopmentTeam = C6DEKLMVP3;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -357,7 +357,7 @@
 					};
 					2F5745FA1D8A83E600094D06 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 2HR4N2E675;
+						DevelopmentTeam = C6DEKLMVP3;
 						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
@@ -368,7 +368,7 @@
 					};
 					492C68821E0078A200E64B68 = {
 						CreatedOnToolsVersion = 8.2;
-						DevelopmentTeam = 2HR4N2E675;
+						DevelopmentTeam = C6DEKLMVP3;
 						LastSwiftMigration = 0820;
 						ProvisioningStyle = Automatic;
 					};
@@ -614,7 +614,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Swimat/Supporting Files/Swimat.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2HR4N2E675;
+				DEVELOPMENT_TEAM = C6DEKLMVP3;
 				INFOPLIST_FILE = Swimat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jintin.Swimat;
@@ -631,7 +631,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Swimat/Supporting Files/Swimat.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2HR4N2E675;
+				DEVELOPMENT_TEAM = C6DEKLMVP3;
 				INFOPLIST_FILE = Swimat/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.jintin.Swimat;
@@ -680,7 +680,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Extension/Supporting Files/Extension.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2HR4N2E675;
+				DEVELOPMENT_TEAM = C6DEKLMVP3;
 				INFOPLIST_FILE = Extension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -697,7 +697,7 @@
 				CODE_SIGN_ENTITLEMENTS = "Extension/Supporting Files/Extension.entitlements";
 				CODE_SIGN_IDENTITY = "Mac Developer";
 				COMBINE_HIDPI_IMAGES = YES;
-				DEVELOPMENT_TEAM = 2HR4N2E675;
+				DEVELOPMENT_TEAM = C6DEKLMVP3;
 				INFOPLIST_FILE = Extension/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @executable_path/../../../../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.11;
@@ -713,7 +713,7 @@
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = 2HR4N2E675;
+				DEVELOPMENT_TEAM = C6DEKLMVP3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_NAME = swimat;
@@ -728,7 +728,7 @@
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_IDENTITY = "Mac Developer";
-				DEVELOPMENT_TEAM = 2HR4N2E675;
+				DEVELOPMENT_TEAM = C6DEKLMVP3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks @loader_path/../Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
 				PRODUCT_NAME = swimat;
